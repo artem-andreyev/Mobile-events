@@ -1,1 +1,1 @@
-Project about mobile events
+Project about mobile events in web browser
